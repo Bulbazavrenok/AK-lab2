@@ -1,0 +1,4 @@
+D:/student/semester5/AK2/lab2/build/CMakeFiles/rebuild_cache.dir
+D:/student/semester5/AK2/lab2/build/CMakeFiles/Calculator.dir
+D:/student/semester5/AK2/lab2/build/CMakeFiles/start.dir
+D:/student/semester5/AK2/lab2/build/CMakeFiles/edit_cache.dir
